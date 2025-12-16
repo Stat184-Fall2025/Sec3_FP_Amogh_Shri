@@ -31,5 +31,5 @@ Sec3_FP_Shriyans_Amogh/
 
 ## Authors
 
-Shriyans Nellutla - The Pennsylvania State University - sjn5648@psu.edu
-Amogh Namuduri - The Pennsylvania State University - abn5523@psu.edu
+- Shriyans Nellutla - The Pennsylvania State University - sjn5648@psu.edu - GitHub: Shriyansn
+- Amogh Namuduri - The Pennsylvania State University - abn5523@psu.edu - Github:
