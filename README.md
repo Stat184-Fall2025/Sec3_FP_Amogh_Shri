@@ -19,7 +19,7 @@ Package Author: joshuaulrich on GitHub. We acknowledge and credit his work in de
 check project_plan.md
 
 ## Repo Structure
-Sec#_FP_Shriyans_Amogh/
+Sec3_FP_Shriyans_Amogh/
 │
 ├── README.md              
 ├── project_plan.md          
