@@ -6,13 +6,17 @@ The project dives into whether stock market behavior shows consistent patterns i
 
 ### Interesting Insight (Optional)
 
-- add later
+One of our earlier insights comes from comparing the normalized S&P500 trajectories across 2007,2020, and 2025.
+We normalized each series to 100 at its starting point. By doing this, we can compare the shape of the market between the different crises.
+This helps us contextualize whether current trends resemble past pre-recession environments.
 
 ## Data Sources and Acknowledgements
 
 Data Source: Yahoo Finance
 - We accessed this data through the {quantmod} package
 Package Author: joshuaulrich on GitHub. We acknowledge and credit his work in developing and maintaining {quantmod}, which enables programmatic access to financial market data.
+
+
 
 ## Current Plan
 
@@ -27,6 +31,20 @@ Sec3_FP_Shriyans_Amogh/
 ├── .lintr
 ├── apa7.csl
 ├── mla9.csl
+├── scripts/
+│   ├──  
+│   └──  
+├── documentation/
+│   ├── 1990toPresentS&P500.R
+│   ├── 1990toPresentS&P500.png
+│   ├──  NormalizedS&PTrends.R
+│   ├──  NormalizedS&PTrends.png
+
+
+
+
+
+
 
 
 ## Authors
