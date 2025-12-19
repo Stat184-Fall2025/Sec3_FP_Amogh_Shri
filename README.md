@@ -23,30 +23,34 @@ Package Author: joshuaulrich on GitHub. We acknowledge and credit his work in de
 check project_plan.md
 
 ## Repo Structure
-## Repo Structure
 
 Sec3_FP_Shriyans_Amogh/<br>
-│<br>
-|── README.md<br>
-├── project_plan.md<br>
-├── .gitignore<br>
-├── .lintr<br>
-├── apa7.csl<br>
-├── mla9.csl<br>
-│<br>
-├── scripts/<br>
-│   ├── 01_import.R<br>
-│   └── helpers.R<br>
-│
 ├── documentation/<br>
 │   ├── 1990toPresentS&P500.R<br>
 │   ├── 1990toPresentS&P500.png<br>
 │   ├── NormalizedS&PTrends.R<br>
 │   ├── NormalizedS&PTrends.png<br>
+│   ├── Curve Spread - Factor 3.R<br>
+│   ├── Curve Spread.png<br>
+│   ├── Fed Rates - Factor 1.R<br>
+│   ├── Fed Rates.png<br>
+│   ├── Inflation vs S&P 500.png<br>
+│   ├── NormalizedS&PTrends.R<br>
+│   ├── NormalizedS&PTrends.png<br>
+│   ├── Potential&Past Recession -2008-2020-2025<br>
+│   ├── S&P500Wrangling.R<br>
+│   └── data_wrangling.R<br>
+
 │<br>
-├── data/<br>
-│   ├── raw/<br>
-│   └── processed/<br>
+├── .gitignore<br>
+├── .lintr<br>
+├── mla9.csl<br>
+├── Project_Guidelines.md<br>
+|── README.md<br>
+├── apa7.csl<br>
+├── project_plan.md<br>
+│<br>
+
 
 
 
