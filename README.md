@@ -26,7 +26,7 @@ check project_plan.md
 ## Repo Structure
 
 Sec3_FP_Shriyans_Amogh/<br>
-│
+│<br>
 |── README.md<br>
 ├── project_plan.md<br>
 ├── .gitignore<br>
