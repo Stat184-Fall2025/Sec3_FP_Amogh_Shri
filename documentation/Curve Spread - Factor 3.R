@@ -13,4 +13,5 @@ ggplot(yc, aes(date, spread)) +
     y = "Spread (%)",
     x = "Date"
   ) +
+
   theme_minimal()
