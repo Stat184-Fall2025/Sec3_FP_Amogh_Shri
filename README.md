@@ -25,38 +25,29 @@ check project_plan.md
 ## Repo Structure
 ## Repo Structure
 
-Sec3_FP_Shriyans_Amogh/
+Sec3_FP_Shriyans_Amogh/<br>
 │
-  |── README.md<br>
-  ├── project_plan.md
-├── .gitignore
-├── .lintr
-├── apa7.csl
-├── mla9.csl
+|── README.md<br>
+├── project_plan.md<br>
+├── .gitignore<br>
+├── .lintr<br>
+├── apa7.csl<br>
+├── mla9.csl<br>
+│<br>
+├── scripts/<br>
+│   ├── 01_import.R<br>
+│   └── helpers.R<br>
 │
-├── scripts/
-│   ├── 01_import.R
-│   ├── 02_clean.R
-│   ├── 03_features.R
-│   ├── 04_eda.R
-│   └── helpers.R
-│
-├── documentation/
-│   ├── 1990toPresentS&P500.R
-│   ├── 1990toPresentS&P500.png
-│   ├── NormalizedS&PTrends.R
-│   ├── NormalizedS&PTrends.png
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── figs/
-├── tables/
-│
-└── report/
-    ├── final_report.qmd
-    └── references.bib
+├── documentation/<br>
+│   ├── 1990toPresentS&P500.R<br>
+│   ├── 1990toPresentS&P500.png<br>
+│   ├── NormalizedS&PTrends.R<br>
+│   ├── NormalizedS&PTrends.png<br>
+│<br>
+├── data/<br>
+│   ├── raw/<br>
+│   └── processed/<br>
+
 
 
 
