@@ -42,9 +42,11 @@ Sec3_FP_Shriyans_Amogh/<br>
 │<br>
 ├── .gitignore<br>
 ├── .lintr<br>
+├── Final project.qmd<br>
 ├── mla9.csl<br>
 ├── Project_Guidelines.md<br>
 |── README.md<br>
+|── ShriAmoghFinalProject.pdf<br>
 ├── apa7.csl<br>
 ├── project_plan.md<br>
 │<br>
