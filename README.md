@@ -28,7 +28,7 @@ check project_plan.md
 Sec3_FP_Shriyans_Amogh/
 │
   |── README.md
-├── project_plan.md
+  ├── project_plan.md
 ├── .gitignore
 ├── .lintr
 ├── apa7.csl
