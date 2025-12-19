@@ -6,9 +6,7 @@ The project dives into whether stock market behavior shows consistent patterns i
 
 ### Interesting Insight (Optional)
 
-One of our earlier insights comes from comparing the normalized S&P500 trajectories across 2007,2020, and 2025.
-We normalized each series to 100 at its starting point. By doing this, we can compare the shape of the market between the different crises.
-This helps us contextualize whether current trends resemble past pre-recession environments.
+One of our earlier discoveries came from analyzing the normalized S&P500 trajectories in 2007, 2020, and 2025. Each series was normalized to 100 at the start point. This allows us to compare the market dynamics throughout crises. This allows us to better understand whether current trends match pre-recession circumstances.
 
 ## Data Sources and Acknowledgements
 
