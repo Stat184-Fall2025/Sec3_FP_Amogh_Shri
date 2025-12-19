@@ -23,22 +23,41 @@ Package Author: joshuaulrich on GitHub. We acknowledge and credit his work in de
 check project_plan.md
 
 ## Repo Structure
+## Repo Structure
+
 Sec3_FP_Shriyans_Amogh/
 │
-├── README.md              
-├── project_plan.md          
+├── README.md
+├── project_plan.md
 ├── .gitignore
 ├── .lintr
 ├── apa7.csl
 ├── mla9.csl
+│
 ├── scripts/
-│   ├──  
-│   └──  
+│   ├── 01_import.R
+│   ├── 02_clean.R
+│   ├── 03_features.R
+│   ├── 04_eda.R
+│   └── helpers.R
+│
 ├── documentation/
 │   ├── 1990toPresentS&P500.R
 │   ├── 1990toPresentS&P500.png
-│   ├──  NormalizedS&PTrends.R
-│   ├──  NormalizedS&PTrends.png
+│   ├── NormalizedS&PTrends.R
+│   ├── NormalizedS&PTrends.png
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── figs/
+├── tables/
+│
+└── report/
+    ├── final_report.qmd
+    └── references.bib
+
 
 
 
